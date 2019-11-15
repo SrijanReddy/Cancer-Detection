@@ -16,3 +16,4 @@ To install the requirements with pip (except for Python), type in the main direc
 
 <code> pip install -r req.txt </code>
 
+Project done in Internship
