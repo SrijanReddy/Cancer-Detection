@@ -9,9 +9,8 @@ The purpose of this blog post/notebook is to practice using classification model
 2. <a href="http://jupyter.org/">Jupyter Notebook</a>
 3. <a href="http://www.numpy.org/">NumPy</a>
 4. <a href="http://matplotlib.org/">matplotlib</a>
-5. <a href="http://seaborn.pydata.org/">Seaborn</a>
-6. <a href="http://scikit-learn.org/stable/">scikit learn</a>
-7. <a href="http://pandas.pydata.org">Pandas</a>
+5. <a href="http://scikit-learn.org/stable/">scikit learn</a>
+6. <a href="http://pandas.pydata.org">Pandas</a>
 
 To install the requirements with pip (except for Python), type in the main directory:
 
