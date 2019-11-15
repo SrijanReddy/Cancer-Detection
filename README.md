@@ -15,5 +15,5 @@ The purpose of this blog post/notebook is to practice using classification model
 
 To install the requirements with pip (except for Python), type in the main directory:
 
-<code> pip install -r requirements.txt </code>
+<code> pip install -r req.txt </code>
 
